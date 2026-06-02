@@ -162,7 +162,7 @@ button {
   font-weight: 600;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: var(--color-accent);
+  color: var(--color-text);
   margin-bottom: 16px;
   display: flex;
   align-items: center;
@@ -174,7 +174,7 @@ button {
   display: inline-block;
   width: 24px;
   height: 2px;
-  background: var(--color-accent);
+  background: var(--color-text);
 }
 
 .hero__heading {
@@ -189,7 +189,7 @@ button {
 }
 
 .hero__heading span {
-  color: var(--color-accent);
+  color: var(--color-text);
 }
 
 .hero__subtitle {
