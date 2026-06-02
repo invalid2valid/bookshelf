@@ -147,6 +147,58 @@
   "review": "বইটি বর্তমানে পড়ছি। রাসূলুল্লাহ (সা.)-এর জীবনকে ভিন্ন আঙ্গিকে ও সহজভাবে জানার জন্য এটি দারুণ একটি বই।",
   "year": 2026,
   "priority": 5
+},
+{
+  "id": "kitabul-mokaddos-injeel-sharif-o-lsayee-dharam",
+  "title": "কিতাবুল মোকাদ্দস, ইঞ্জিল শরীফ ও ঈসায়ী ধর্ম",
+  "author": "ড. খোন্দকার আব্দুল্লাহ জাহাঙ্গীর",
+  "cover": "https://wafilife-media.wafilife.com/uploads/2018/11/0-1-4-250x390.jpg",
+  "description": "Kitabul Mokaddos ebong Injeel Sharif-er bishleshorer pasapasi Christian missionary-der dhormoprocari rohonity o Itihas niye Dr. Khandaker Abdullah Jahangir (Rah.)-er ekti bishleshonatgok o gobeshonamulok boi.",
+  "categories": ["ধর্ম"],
+  "status": "পড়ছি",
+  "storeLink": "https://rkmri.co/pM33Me5SMMTA/",
+  "review": "Boi-ti bortomone podchi. Christian dhormo o missionary-der bhibhinno procar-poddhoti shomporke totthogoto dharona paoar jonno ekti proyojoniyo boi.",
+  "year": 2026,
+  "priority": 5
+},
+{
+  "id": "destiny-disrupted",
+  "title": "ডেসটিনি ডিসরাপ্টেড : ইসলামিক দৃষ্টিতে বিশ্ব ইতিহাস",
+  "author": "তামিম আনসারী",
+  "cover": "https://wafilife-media.wafilife.com/uploads/2020/08/IMG-20200708-WA0047-250x375.jpg",
+  "description": "ইসলামের সূচনালগ্ন থেকে বর্তমান সময় পর্যন্ত মুসলিম বিশ্বের সামাজিক, রাজনৈতিক ও ঐতিহাসিক বিবর্তনের এক অনন্য বিশ্লেষণ, যা প্রাচ্য ও পাশ্চাত্যের ইতিহাসকে ভিন্ন এক দৃষ্টিকোণ থেকে তুলে ধরে।",
+  "categories": ["ইতিহাস"],
+  "status": "পড়বো",
+  "storeLink": "https://rkmri.co/MT00R5RlyelE/",
+  "review": "ইসলামিক দৃষ্টিকোণ থেকে বিশ্ব ইতিহাসের এক ভিন্ন রূপরেখা জানতে বইটি পড়ার তালিকায় যুক্ত করলাম।",
+  "year": 2026,
+  "priority": 5
+},
+{
+  "id": "mutazila-itihash-o-droshon",
+  "title": "মুতাজিলা : ইতিহাস ও দর্শন",
+  "author": "ড. আলী আকবর",
+  "cover": "https://wafilife-media.wafilife.com/uploads/2020/08/IMG-20200708-WA0047-250x375.jpg",
+  "description": "ইসলামী চিন্তাধারার ইতিহাসে যুক্তিবাদী দল 'মুতাজিলা'র উৎপত্তি, বিকাশ, তাদের মূল দার্শনিক আকিদা ও মুসলিম সমাজে এর প্রভাব নিয়ে একটি তাত্ত্বিক আলোচনা।",
+  "categories": ["ধর্ম", "ইতিহাস"],
+  "status": "পড়বো",
+  "storeLink": "https://rkmri.co/AlAASmooS5To/",
+  "review": "ইসলামী দর্শন ও যুক্তিসংগত চিন্তার ইতিহাস জানতে বইটি পড়ার তালিকায় যুক্ত করলাম।",
+  "year": 2026,
+  "priority": 5
+},
+{
+  "id": "abishwaser-bhanga-dewal",
+  "title": "অবিশ্বাসের ভাঙা দেয়াল",
+  "author": "সাজ্জাতুল মাওলা শান্ত",
+  "cover": "https://wafilife-media.wafilife.com/uploads/2025/02/download-37-250x386.jpg",
+  "description": "নাস্তিকতা ও সংশয়বাদের বিভিন্ন যুক্তি ও দর্শনের ব্যবচ্ছেদ এবং সমকালীন অবিশ্বাসের দেয়াল ভেঙে ইসলামের যৌক্তিক ও বুদ্ধিবৃত্তিক সত্যতা তুলে ধরার ক্ষেত্রে একটি চমৎকার বই।",
+  "categories": ["ধর্ম"],
+  "status": "পড়বো",
+  "storeLink": "https://rkmri.co/ySo05RmM2e2N/",
+  "review": "সমকালীন সংশয়বাদের বুদ্ধিবৃত্তিক জবাব ও বিশ্বাসের ভিত শক্ত করতে বইটি পড়ার তালিকায় যুক্ত করলাম।",
+  "year": 2026,
+  "priority": 5
 }
   
 ]
