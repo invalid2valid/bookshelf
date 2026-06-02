@@ -52,8 +52,8 @@ function Home() {
         <div className="container">
           <p className="hero__eyebrow">ব্যক্তিগত পাঠতালিকা</p>
           <h1 className="hero__heading">
-            হযরত আলীর
-            <br />
+            {/* হযরত আলীর
+            <br /> */}
             <span>বুকশেলফ</span>
           </h1>
           <p className="hero__subtitle">
