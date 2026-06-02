@@ -1,5 +1,19 @@
 [
 {
+  "id": "mubasshirin-1st-part",
+  "title": "মুবাশশিরীন প্রথম খন্ড",
+  "author": "জিম তানভীর",
+  "cover": "https://wafilife-media.wafilife.com/uploads/2026/02/mubasshirin-250x387.jpg",
+  "description": "পবিত্র কুরআনে বর্ণিত আল্লাহ সুবহানাহু ওয়া তাআলা প্রেরিত নবী ও রাসূলগণের পবিত্র জীবন, দাওয়াত এবং ঐতিহাসিক ঘটনাবলি নিয়ে রচিত একটি শিক্ষণীয় বই।",
+  "categories": ["ধর্ম", "ইতিহাস"],
+  "status": "পড়ছি",
+  "storeLink": "https://www.wafilife.com/mubasshirin-1st-part/pd/74785",
+  "review": "বইটি বর্তমানে পড়ছি। নবী-রাসূলদের জীবন এবং ইসলামের ইতিহাস সম্পর্কে জানার জন্য এটি চমৎকার একটি বই।",
+  "year": 2026,
+  "priority": 5
+},
+
+{
   "id": "ek-nojore-quran",
   "title": "এক নজরে কুরআন",
   "author": "ড. মিজানুর রহমান আজহারি",
