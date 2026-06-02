@@ -1,4 +1,18 @@
 [
+
+{
+  "id": "rahe-belayet",
+  "title": "রাহে বেলায়াত",
+  "author": "ড. খোন্দকার আব্দুল্লাহ জাহাঙ্গীর",
+  "cover": "https://www.wafilife.com/wp-content/uploads/2016/08/Rahe-Belayet.jpg",
+  "description": "কুরআন ও সহীহ হাদীসের আলোকে যিকির ও দুআর প্রকৃত পদ্ধতি এবং রাসূল (সা.) এর দেখানো সহীহ পন্থায় আল্লাহর নৈকট্য অর্জনের পথ নিয়ে রচিত একটি গুরুত্বপূর্ণ বই।",
+  "categories": ["আত্মশুদ্ধি", "ধর্ম"],
+  "status": "পড়বো",
+  "storeLink": "https://www.wafilife.com/rahe-belayet/pd/3573",
+  "review": "এখনো পড়া হয়নি, তবে এটি একটি অত্যন্ত জনপ্রিয় এবং সমৃদ্ধ বই হিসেবে পরিচিত।",
+  "year": 2026,
+  "priority": 5
+},
   {
     "id": "ihya-ulum-ad-din",
     "title": "ইহইয়া উলুমুদ্দীন 2",
