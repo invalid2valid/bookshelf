@@ -50,7 +50,7 @@ function Home() {
       {/* Hero */}
       <section className="hero">
         <div className="container">
-          <p className="hero__eyebrow" tyle="color: blue;">ব্যক্তিগত পাঠতালিকা</p>
+          <p className="hero__eyebrow" style="color: black;">ব্যক্তিগত পাঠতালিকা</p>
           <h1 className="hero__heading">
             {/* হযরত আলীর
             <br /> */}
