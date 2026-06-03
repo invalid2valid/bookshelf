@@ -57,8 +57,8 @@ function Home() {
             <span>বুকশেলফ</span>
           </h1>
           <p className="hero__subtitle">
-            &ldquo;জ্ঞান অর্জনের জন্য পড়া শুরু করেছিলাম; এখন যত পড়ছি, ততই
-            বুঝতে পারছি—আমি কত কম জানি।&rdquo;
+            &ldquo;মানুষ;তাই মনে প্রশ্ন জাগে, উত্তর খুঁজি; তাই বই পড়ি, বই পড়ি; নতুন প্রশ্ন সামনে আসে—
+            আবার নতুন বই পড়া শুরু করি।&rdquo;
           </p>
           <div className="hero__stats">
             <div className="stat-item stat-item--accent">
