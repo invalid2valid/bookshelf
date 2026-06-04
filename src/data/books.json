@@ -1,5 +1,18 @@
 [
 {
+  "id": "the-amateur-pen-1",
+  "title": "The Amateur Pen (Volume 1)",
+  "author": "Md. Kausar Uddin Ahmed (Editor)",
+  "cover": "https://lh3.googleusercontent.com/pw/AP1GczMdHJVBDftfelwprBIAFC9lkfv0WTlbCWn_nwjg-ocNnmdDa2AhiU71JHxVyNlUXivwWdOCLFHx-w-eWuKM2S0qNRziP-qHmvHk1VaEeQGO3Ta4OdXGDjngY7i6P9PkjJtu5nv9Pu10Fnn7pngF5vCrzg=w1079-h1530-s-no-gm",
+  "description": "অমর একুশে বইমেলা ২০২৬-এ প্রকাশিত একটি সমৃদ্ধ সংকলন গ্রন্থ। এতে বহুসংখ্যক তরুণ ও উদীয়মান লেখকের ভিন্নধর্মী চিন্তাভাবনা, মৌলিক কবিতা এবং বৈচিত্র্যময় প্রবন্ধ স্থান পেয়েছে, যা সমকালীন সাহিত্য ও সমাজভাবনার এক অনন্য দলিল।",
+  "categories": ["কবিতা", "সাহিত্য", "রাজনীতি", "শিল্প ও সংস্কৃতি", "ধর্ম", "ইতিহাস"],
+  "status": "পড়া শেষ",
+  "storeLink": "Not Available Online",
+  "review": "বইটি পড়া শেষ হয়েছে। অমর একুশে বইমেলা ২০২৬-এ প্রকাশিত এই সংকলনটি আমার কাছে অত্যন্ত অর্থবহ, কারণ এখানে বিভিন্ন লেখকের রাজনীতি, ধর্ম, ইতিহাস, শিল্প ও সাহিত্যের পাশাপাশি আমার নিজের লেখা একটি মৌলিক কবিতাও স্থান পেয়েছে।",
+  "year": 2026,
+  "priority": 5
+},
+{
   "id": "khilafa",
   "title": "খিলাফাহ",
   "author": "ইমরান রাইহান",
