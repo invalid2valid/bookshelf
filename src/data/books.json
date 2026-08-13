@@ -1,5 +1,18 @@
 [
   {
+  "id": "islam-a-comprehensive-introduction-mizan",
+  "title": "Islam: A Comprehensive Introduction (Mizan)",
+  "author": "Javed Ahmad Ghamidi",
+  "cover": "https://www.javedahmadghamidi.com/images/books/english-mezan.jpg",
+  "description": "ইসলামের আকিদা, শরীয়ত, আখলাক ও এর সার্বিক কাঠামোর ওপর জাভেদ আহমেদ গামিদির বিখ্যাত মূল গ্রন্থ 'মিজান'-এর ইংরেজি রূপান্তর। এটি ইসলামের মূলনীতি ও শিক্ষাগুলোকে আধুনিক ও যৌক্তিক ভঙ্গিতে বিস্তৃতভাবে উপস্থাপন করে।",
+  "categories": ["ধর্ম", "দর্শন"],
+  "status": "পড়ছি",
+  "storeLink": "https://www.javedahmadghamidi.com/multilangbooks",
+  "review": "বর্তমানে বইটি পড়ছি। আধুনিক ও বুদ্ধিবৃত্তিক দৃষ্টিকোণ থেকে ইসলামের পূর্ণাঙ্গ রূপরেখা ও এর গভীর চেতনা অনুধাবনের জন্য এটি অত্যন্ত সমৃদ্ধ একটি পাঠ।",
+  "year": 2026,
+  "priority": 5
+},
+  {
   "id": "al-islam",
   "title": "আল ইসলাম",
   "author": "জাভেদ আহমেদ গামিদি",
